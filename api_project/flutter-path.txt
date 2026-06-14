@@ -1,0 +1,38 @@
+﻿
+
+HelpUri            : 
+FileVersionInfo    : File:             C:\dev\flutter_windows_3.41.4-stable\flu
+                     tter\bin\flutter.bat
+                     InternalName:     
+                     OriginalFilename: 
+                     FileVersion:      
+                     FileDescription:  
+                     Product:          
+                     ProductVersion:   
+                     Debug:            False
+                     Patched:          False
+                     PreRelease:       False
+                     PrivateBuild:     False
+                     SpecialBuild:     False
+                     Language:         
+                     
+Path               : C:\dev\flutter_windows_3.41.4-stable\flutter\bin\flutter.b
+                     at
+Extension          : .bat
+Definition         : C:\dev\flutter_windows_3.41.4-stable\flutter\bin\flutter.b
+                     at
+Source             : C:\dev\flutter_windows_3.41.4-stable\flutter\bin\flutter.b
+                     at
+Version            : 0.0.0.0
+Visibility         : Public
+OutputType         : {System.String}
+Name               : flutter.bat
+CommandType        : Application
+ModuleName         : 
+Module             : 
+RemotingCapability : PowerShell
+Parameters         : 
+ParameterSets      : 
+
+
+
